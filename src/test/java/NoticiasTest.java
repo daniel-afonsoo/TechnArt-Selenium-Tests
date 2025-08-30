@@ -1,0 +1,39 @@
+
+import java.time.Duration;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertTrue;
+import org.openqa.selenium.*;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+public class NoticiasTest {
+
+
+    @Test
+    public void Noticias() {
+        ChromeDriver driver = new ChromeDriver();
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+        Actions actions = new Actions(driver);
+        
+        driver.get("http://novotechneart.ipt.pt/tecnart/");
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(2));
+
+        
+        //Clicar no "botao" noticias
+        WebElement noticias = driver.findElement(By.xpath("/html/body/div[1]/header/div/nav/div[2]/ul/li[4]/a"));
+        noticias.click();
+        
+        
+        
+        //Se aparece o h3 com Noticias entao ta tudo ok
+        WebElement titulo = driver.findElement(By.xpath("/html/body/section[1]/div/div/div/h3"));
+        String nome = titulo.getText();
+        assertTrue(nome.contains("Notícias"));
+        
+        
+        
+        driver.quit();
+    }
+
+}
