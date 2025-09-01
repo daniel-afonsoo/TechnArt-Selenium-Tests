@@ -15,6 +15,6 @@ O Portal Techn&Art(front-office e back-office) já estava desenvolvido previamen
 - **Repositório original**: [Tech-Art(Original)](https://github.com/Projeto-Final-LEI-IPT/Tech-Art).
 - Criei também um **fork** desse **repositório original**: [Tech-Art(Fork)](https://github.com/daniel-afonsoo/Tech-Art).
 
-A minha equipa foi responsável apenas por melhorias de design e funcionalidades no back-office e front-office já existente do Portal Techn&Art.
-- Branch **sub-master** criada no **repositório original**: [sub-master(Original)](https://github.com/Projeto-Final-LEI-IPT/Tech-Art/tree/sub-master).
+As melhorias de design e funcionalidades realizadas pela minha equipa no back-office e front-office do Portal Techn&Art foram implementadas e consolidadas na **branch sub-master**
+- **Branch sub-master** criada no **repositório original**: [sub-master(Original)](https://github.com/Projeto-Final-LEI-IPT/Tech-Art/tree/sub-master).
 - Criei igualmente um **fork** dessa branch disponível em: [sub-master(Fork)](https://github.com/daniel-afonsoo/Tech-Art/tree/sub-master)
