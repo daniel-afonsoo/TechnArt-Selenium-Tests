@@ -13,6 +13,7 @@ O objetivo é validar automaticamente as principais funcionalidades e páginas d
 **Nota**: 
 O Portal Techn&Art(front-office e back-office) já estava desenvolvido previamente em PHP + MySQL e está disponível no repositório original:
 - [Tech-Art](https://github.com/Projeto-Final-LEI-IPT/Tech-Art).
+  
 Criei também um **fork** desse repositório original, disponível em:
 - [Tech-Art](https://github.com/daniel-afonsoo/Tech-Art).
 
