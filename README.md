@@ -10,7 +10,7 @@ O objetivo é validar automaticamente as principais funcionalidades e páginas d
 - Maven
 ***
 
-**Nota**: 
+### Nota: 
 O Portal Techn&Art(front-office e back-office) já estava desenvolvido previamente em PHP + MySQL.
 - **Repositório original**: [Tech-Art(Original)](https://github.com/Projeto-Final-LEI-IPT/Tech-Art).
 - Criei também um **fork** desse **repositório original**: [Tech-Art(Fork)](https://github.com/daniel-afonsoo/Tech-Art).
