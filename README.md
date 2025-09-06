@@ -5,10 +5,10 @@ O objetivo é validar automaticamente as principais funcionalidades e páginas d
 
 ###
 ## Tecnologias utilizadas nos testes:
-- Java 21
-- Selenium WebDriver
-- JUnit 5
-- Maven
+- **Linguagem**: Java 
+- **Frameworks**: JUnit 5
+- **Ferramenta de Automação**: Selenium WebDriver
+- **Ferramenta de Build**: Maven
 
 ###
 ## Nota: 
