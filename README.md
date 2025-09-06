@@ -1,6 +1,6 @@
 # TechnArt-Selenium-Tests
 ## Sobre:
-Este repositório contém a automação de **smoke tests** e **UI tests** desenvolvidos em colaboração com a minha equipa para o front-office do **Portal Techn&Art** no âmbito do **Projeto Final da Licenciatura** em **Engenharia Informática (IPT)**.
+Este repositório contém o código para a automação de **smoke tests** e **UI tests** desenvolvidos em colaboração com a minha equipa para o front-office do **Portal Techn&Art** no âmbito do **Projeto Final da Licenciatura** em **Engenharia Informática (IPT)**.
 O objetivo é validar automaticamente as principais funcionalidades e páginas do portal, garantindo a qualidade e fiabilidade da aplicação através de testes rápidos e repetíveis.
 
 ###
