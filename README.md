@@ -41,4 +41,4 @@ The Techn&Art Portal (front-office and back-office) had already been developed i
 
 The design and functionality improvements made by my team on the portal's back-office and front-office were implemented and consolidated in the **sub-master branch**:  
 - **sub-master branch** in the **original repository**: [sub-master (Original)](https://github.com/Projeto-Final-LEI-IPT/Tech-Art/tree/sub-master).  
-- I also created a **fork** of this branch available at: [sub-master (Fork)](https://github.com/daniel-afon
+- I also created a **fork** of this branch available at: [sub-master(Fork)](https://github.com/daniel-afonsoo/Tech-Art/tree/sub-master)
